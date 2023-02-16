@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SensorSurvey</string>
+    <string name="placeholder">(placeholder)</string>
+    <string name="light_sensor_1_2f">Light Sensor: %1$.2f</string>
+    <string name="pressure_1_2f">Pressure Sensor: %1$.2f</string>
+    <string name="relative_humidity">Relative humidity: %1$.2f</string>
+    <string name="acceleratie">Acceleratie: %1$.2f</string>
+    <string name="camp_magnetic">Camp magnetic: %1$.2f</string>
+    <string name="azimut">Azimuth: %1$.2f</string>
+    <string name="roll">Roll: %1$.2f</string>
+    <string name="pitch">Pitch: %1$.2f</string>
+    <string name="error_no_sensor">No sensor</string>
+    <string name="proximity_sensor_1_2f">Proximity Sensor: %1$.2f</string>
+</resources>
